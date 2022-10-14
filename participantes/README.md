@@ -12,3 +12,4 @@ Para realizar este ejercicio debes:
 ### Miembros del equipo.
 
 - [x] Fran J.
+- [x] Guillermo E.
