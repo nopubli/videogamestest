@@ -9,6 +9,6 @@ Para realizar este ejercicio debes:
 - Cambiar el contenido.
 - Realizar un PullRequest para que el dueño del repositorio considere tus cambios en su proyecto.
 
-### Zona colaboradores.
+### Miembros del equipo.
 
 - [x] Fran J.
