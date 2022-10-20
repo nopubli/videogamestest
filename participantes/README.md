@@ -13,3 +13,4 @@ Para realizar este ejercicio debes:
 
 - [x] Fran J.
 - [x] Guillermo E.
+- [x] Freddy T.
