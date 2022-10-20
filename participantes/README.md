@@ -14,3 +14,5 @@ Para realizar este ejercicio debes:
 - [x] Fran J.
 - [x] Guillermo E.
 - [x] Daniel B.
+- [x] Freddy T.
+
